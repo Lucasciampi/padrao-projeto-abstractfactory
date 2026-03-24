@@ -2,7 +2,7 @@
 
 Projeto destinado a estudo acadêmico de Arquitetura e Projeto de Software.
 
-Esse repositóro está sendo abordado o Padrão de Projeto AbstractFactory.
+Padrão de Projeto AbstractFactory - Fabrica de Relatórios.
 
 Diagrama de Classes:
 
